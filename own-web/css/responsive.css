@@ -1,0 +1,245 @@
+@media (max-width:576px) {
+    .d-sm-none {
+        display: none !important;
+    }
+
+    /* home */
+    .home-content {
+        text-align: center !important;
+    }
+
+    .home-img img {
+        display: none !important;
+    }
+
+    /* home-end */
+
+    .heading-title {
+        padding: 0% 0% !important;
+    }
+
+    .register {
+        padding: 0px 0px;
+        padding-bottom: 50px;
+    }
+
+    /* project */
+    .projects {
+        text-align: center !important;
+    }
+
+    .project {
+        padding: 0px 0px;
+    }
+
+    /* projects-end */
+
+    /* management */
+    .management {
+        padding: 0px 0px;
+        padding-bottom: 50px;
+    }
+
+    .plan-card {
+        margin-top: 30px;
+    }
+
+    .subscripe {
+        text-align: center !important;
+    }
+    
+    .u-tube-right {
+        text-align: center;
+        padding-top: 13px !important;
+    }
+    .form-top {
+        margin-top: 10px !important;
+        margin-left: 0% !important;
+    }
+    .footer-service, .footer-Community, .subscriber, ul{
+        margin-left: 0px !important;
+        padding-left: 30px;
+    }
+    .social-media{
+        padding: 30px;
+    }
+    .footer-icons ul {
+        margin-left: -42px !important;
+        padding-top: 5px;
+}
+.inputs input {
+    border: none;
+    padding: 10px 15px !important;
+    outline: none;
+}
+.inputs{
+    margin: 0px 22px !important;
+}
+ /* sections-padding */
+
+ .con-form {
+    padding:  0px !important;
+ }
+}
+
+ /* sections-padding-end */
+
+/* max-width-end */
+
+
+@media (min-width:576px) {
+    .d-sm-none {
+        display: none !important;
+    }
+
+    /* home */
+    .home-content {
+        text-align: center !important;
+    }
+
+    .home-img img {
+        display: none !important;
+    }
+
+    /* home-end */
+
+    .heading-title {
+        padding: 0% 0% !important;
+    }
+
+    .register {
+        padding: 0px 0px;
+        padding-bottom: 50px;
+    }
+
+    /* project */
+    .projects {
+        text-align: center !important;
+    }
+
+    .project {
+        padding: 0px 0px;
+    }
+
+    /* projects-end */
+
+    /* management */
+    .management {
+        padding: 0px 0px;
+        padding-bottom: 50px;
+    }
+
+    .plan-card {
+        margin-top: 30px;
+    }
+
+    .subscripe {
+        text-align: center !important;
+    }
+
+    .u-tube-right {
+        text-align: center;
+        padding-top: 13px !important;
+    }
+    .form-top {
+        margin-top: 10px !important;
+        margin-left: 0% !important;
+    }
+    .footer-service, .footer-Community, .subscriber, ul{
+        margin-left: 0px !important;
+        padding-left: 30px;
+    }
+    .social-media{
+        padding: 30px;
+    }
+    .footer-icons ul {
+        margin-left: -42px !important;
+        padding-top: 5px;
+}
+.inputs input {
+    border: none;
+    padding: 10px 45px;
+    outline: none;
+}
+.inputs{
+    margin: 0px 22px !important;
+}
+ /* sections-padding */
+
+ .con-form {
+    padding:  0px !important;
+ }
+
+ /* sections-padding-end */
+
+}
+/* tab-view */
+
+@media (min-width:768px) and (max-width:992px) {
+    .service {
+        padding: 50px 0px;
+    }
+        .owl-next {
+            position: absolute;
+            top: 206px !important;
+            left: 42px;    
+}
+.owl-prev {
+    position: absolute;
+    top: 206px !important;
+    right: 42px;
+    }
+    .inputs{
+        margin: 0px 0px !important;
+    }
+    .subscripe{
+        padding-top: 20px;
+    }
+}
+
+@media (min-width:992px) {
+    .heading-title{
+        padding: 0% 29% !important;
+    }
+    .d-lg-block{
+        display: block !important;
+    }
+    .home-content {
+        text-align: start !important;
+    }
+    .home-img img {
+        display: block !important;
+
+    }
+    .navbar-nav{
+        padding: 0px !important;
+    }
+    .d-sm-none {
+        display: block !important;
+    }
+    .submit-btn input{
+        padding: 8px 26px !important;
+        background-color: blue !important;
+        color: white;
+    } 
+    .project {
+        padding: 100px 0px;
+    }
+    /* .ratio-16x9 {
+        /* --bs-aspect-ratio: calc(16 / 16 * 100%) !important; 
+    } */
+    .u-tube-right {
+        padding-top: 0px !important;
+    }
+    .social-media{
+        padding: 0 !important;
+    }
+    .form-map{
+        margin-top: -72px;
+        margin-left: -40px;
+    }
+    .footer-service, .footer-Community, .subscriber, ul {
+        margin-left: -33px !important;
+    }
+
+}
